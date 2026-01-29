@@ -57,6 +57,13 @@ The dashboard allows users to explore performance by location and month using dy
 
 ---
 
+## 📊 Interactive Dashboard
+
+Explore the live interactive Power BI dashboard by clicking linke below:
+🔗 [**Explore the Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzg0ZDZlODMtOWQ0YS00ZTBhLWIwN2ItMDU4MTBhODdhYWQwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Power BI** (Data modeling, visualization, and reporting)
